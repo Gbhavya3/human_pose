@@ -1,4 +1,4 @@
-# Human Pose Detection 🧍‍♂️🧍‍♀️💃🕺
+# Human Pose Detection using Machine Learning
 
 <b>Human pose estimation from video plays a crucial role in a variety of applications, such as physical exercise quantification, sign language recognition, and full-body gesture control. For example, it forms the backbone of yoga, dance, and fitness applications. Additionally, pose estimation enables the overlay of digital content and information onto the physical world, making it a core component of augmented reality (AR).
 
